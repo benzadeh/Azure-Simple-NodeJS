@@ -1,23 +1,16 @@
 {
-    "name": "azure-ziproute",
-    "version": "0.2.0",
-    "build": "2017/11/02 13:22",
-    "author": "Chris Joakim",
-    "description": "A MEAN project built with Ionic/Angular 4, Node.js/Express, MongoDB/Mongoose, and TypeScript.",
-    "homepage": "https://github.com/cjoakim/azure-ziproute",
-    "private": true,
-    "scripts": {
-     
-    },
-    "dependencies": {
-     
-    },
-    "devDependencies": {
-   
-    },
-    "config": {
-          },
-    "engines": {
-      "node": "10.4.0"
-    }
-  }
+ "name": "azure-ziproute",
+ "version": "0.2.0",
+ "build": "2017/11/02 13:22",
+ "author": "Chris Joakim",
+ "description": "A MEAN project built with Ionic/Angular 4, Node.js/Express, MongoDB/Mongoose, and TypeScript.",
+ "homepage": "https://github.com/cjoakim/azure-ziproute",
+ "private": true,
+ "scripts": {},
+ "dependencies": {},
+ "devDependencies": {},
+ "config": {},
+ "engines": {
+  "node": "10.4.0"
+ }
+}
