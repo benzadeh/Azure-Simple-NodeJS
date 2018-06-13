@@ -15,4 +15,4 @@ RUN npm install
 #COPY .  /usr/src/app
 
 EXPOSE 80
-CMD [ "node", "hello.js" ]
+CMD [ "node", "server/www.js" ]
